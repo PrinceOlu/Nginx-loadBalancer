@@ -1,0 +1,2 @@
+2024/10/11 17:54:59 [error] 6820#5256: *1 CreateFile() "C:\Users\Ojugb\Desktop\projects\Nginx-loadBalancer\nginx-1.26.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/10/11 17:57:37 [notice] 16008#15444: signal process started
